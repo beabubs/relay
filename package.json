@@ -1,13 +1,13 @@
 {
-  "name": "Beabubs Relay Scanner",
+  "name": "@beabubs/scanner",
   "version": "0.1.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Beabubs Relay Scanner",
+  "main": "scanner.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Kristoffer Tonning",
   "license": "ISC",
   "dependencies": {
     "@abandonware/noble": "^1.9.2-5",
