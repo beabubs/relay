@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@abandonware/noble": "^1.9.2-5",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "dotenv": "^8.2.0",
     "lodash": "^4.17.15",
     "node-beacon-scanner": "^0.2.2"
